@@ -1,0 +1,13 @@
+{
+	"id": "icanhazdadjoke",
+	"version": "1.0",
+	"description": "Shows random dad jokes from icanhazdadjoke.com",
+	"categories": [
+		"fun",
+		"jokes",
+		"toy"
+	],
+	"compatible_from": "2018.4",
+	"dependencies": [],
+	"required_php_extensions" : ["curl"]
+}
