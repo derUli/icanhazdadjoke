@@ -9,5 +9,7 @@
 	],
 	"compatible_from": "2018.4",
 	"dependencies": [],
-	"required_php_extensions" : ["curl"]
+	"required_php_extensions": [
+		"curl"
+	]
 }
