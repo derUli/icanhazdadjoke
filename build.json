@@ -1,4 +1,5 @@
 {
+	"source" : "extend",
 	"id": "icanhazdadjoke",
 	"version": "1.0",
 	"description": "Shows random dad jokes from icanhazdadjoke.com",
